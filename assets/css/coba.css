@@ -1,0 +1,40 @@
+
+/*grid*/
+.grid-kanan{  
+	float: left;  
+	width: 566px;}
+
+.grid-kiri{ 
+	float: right;  
+	width: 331px;}
+
+
+@media (min-width: 1200px) {
+	.grid-kanan{  
+		float: left;  
+		width: 566px;}
+
+	.grid-kiri{ 
+		float: right;  
+		width: 331px;}
+}
+
+@media (min-width: 768px) and (max-width: 900px) {
+	.grid-kanan{  
+		float: left;  
+		width: 62.88888%;}
+
+	.grid-kiri{ 
+		float: right;  
+		width: 36.77777%;}
+}
+
+@media (max-width: 480px) {
+	.grid-kanan{  
+		float: left;  
+		width: 115.833333%;}
+
+	.grid-kiri{ 
+		float: right;  
+		width: 68.958333%;}
+}

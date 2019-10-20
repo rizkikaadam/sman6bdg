@@ -1,0 +1,2 @@
+.blog .main {  float: left;  width: 62.8888889%;  /* 566px / 900px */ }
+.blog .other {  float: right;  width: 36.7777778%;  /* 331px / 900px */ }

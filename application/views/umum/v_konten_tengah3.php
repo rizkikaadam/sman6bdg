@@ -1,0 +1,1 @@
+<div class="col-md-6"><span class="show-grid-block">Content</span></div>
